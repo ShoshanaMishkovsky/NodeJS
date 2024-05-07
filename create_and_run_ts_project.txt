@@ -1,0 +1,8 @@
+Create ts project:
+1. Create new Folder
+2. npm init -y
+3. npm i ts-node
+4. (needed only sometimes - npm install @types/node --save-dev)
+
+Run ts project:
+1. npx ts-node app.ts
